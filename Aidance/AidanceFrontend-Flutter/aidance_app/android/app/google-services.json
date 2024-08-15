@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "535261907531",
+    "project_id": "aidance-fydp-32214",
+    "storage_bucket": "aidance-fydp-32214.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535261907531:android:a2d4000612eae98964dbce",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535261907531-um5mqdi3erq88nocrc4njmeq0tpptf3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAhgFDWXmPvBSwXwqZxG3SbdKBvvQ_cVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535261907531-um5mqdi3erq88nocrc4njmeq0tpptf3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "535261907531-al25ilji5uqgfao7ufa6p112cirh0tue.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aidanceApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
